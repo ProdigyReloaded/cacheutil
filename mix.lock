@@ -1,0 +1,6 @@
+%{
+  "ex_brace_expansion": {:git, "https://github.com/hez/ex_brace_expansion.git", "1466ede7b51cc0378acb12120de40543cf45f49d", [tag: "v0.0.3"]},
+  "ex_minimatch": {:git, "https://github.com/hez/ex_minimatch.git", "f2a1505734faff6ebe414e31046dae109b5bb015", [tag: "v0.0.3"]},
+  "exprintf": {:hex, :exprintf, "0.2.1", "b7e895dfb00520cfb7fc1671303b63b37dc3897c59be7cbf1ae62f766a8a0314", [:mix], [], "hexpm", "20a0e8c880be90e56a77fcc82533c5d60c643915c7ce0cc8aa1e06ed6001da28"},
+  "objectutil": {:git, "git@github.com:ProdigyReloaded/objectutil.git", "2095780292f5878249a49be25a151ccaaee03781", []},
+}
